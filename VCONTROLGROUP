@@ -2,3 +2,20 @@
 
 #1 The first part is to ask the user for a username
 #2 The second part is to count the characters of the screen.
+
+
+
+
+print('Enter your name:')
+x = input()
+print('Hi, ' + x)
+
+
+
+count = 0
+for i in range(len(x)):
+    count += len(x[i])
+
+
+
+print(x + "How are you doing today")
