@@ -1,0 +1,17 @@
+# Version-control-group-88
+
+
+
+print('Enter your name:')
+x = input()
+print('Hi, ' + x)
+
+
+
+count = 0
+for i in range(len(x)):
+    count += len(x[i])
+
+
+
+print(x + "How are you doing today")
