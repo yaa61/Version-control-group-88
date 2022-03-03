@@ -5,3 +5,5 @@
 #2 The second part is to count the characters of the screen.
 
 #3 the third part is printing a statement with our x variable.
+
+Licensed under the [MIT License]
